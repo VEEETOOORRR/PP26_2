@@ -1,0 +1,20 @@
+java version "26.0.1" 2026-04-21
+Java(TM) SE Runtime Environment (build 26.0.1+8-34)
+Java HotSpot(TM) 64-Bit Server VM (build 26.0.1+8-34, mixed mode, sharing)
+
+IDE: Visual Studio Code 1.135.0
+Extensão Java: Extension Pack for Java 0.31.1
+
+OS: macOS Tahoe 26.6.2 (25G83) arm64
+
+Tipo de biblioteca criada: .jar
+
+Descrição de cada método da classe Calculadora_202311250030:
+
+soma(float a, float b): Recebe dois números float, realiza a adição entre eles e retorna um float como resultado.
+
+subtracao(float a, float b): Recebe dois números float, subtrai o segundo valor do primeiro e retorna um float como resultado.
+
+multiplicacao(float a, float b): Recebe dois números float, realiza o produto entre eles e retorna um float como resultado.
+
+divisao(float a, float b): Recebe dois números float, divide o primeiro pelo segundo e retorna um float como resultado. Caso o divisor (b) seja zero, exibe um alerta no terminal e retorna Float.NaN.
