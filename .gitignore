@@ -1,0 +1,8 @@
+.vscode/
+*/bin/*
+
+.DS_Store
+*/.DS_Store
+
+*/settings.json
+*/.zip
