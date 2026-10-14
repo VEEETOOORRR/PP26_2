@@ -1,0 +1,4 @@
+Escreva uma aplicação em Java que receba um texto ou arquivo de texto a partir de uma linha de comando no Shell.• O texto deve ser lido e estatísticas devem ser impressas sobre: a) o número de espaços encontrados, b) o número de letras 'a' e c) o número de pontos;
+• Use o Padrão Chain of Responsibility e faça com que cada tipo de caractere seja tratado por um elo diferente da corrente, mas caso você julgue necessário utilize outros padrões de projeto.
+
+Como resposta a esta atividade, grave um pequeno vídeo, de no máximo 1 min e não mais que isso, onde: 1) você apresente e explique como você utilizou o padrão Cadeia de Responsabilidade para atender a funcionalidade pedida na questão; 2) o resultado de uma execução da aplicação para esse enunciado dessa questão.
